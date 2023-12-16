@@ -1,8 +1,11 @@
 # onboardingGuide
-Onboarding guide for Code with Aloha as a temporary upload area
+Onboarding Guide
+Please see below for a link to access the course presentation Version. 
 
+Coming Soon: Written Version
 
-*  cannot upload to github pages, please see below public access AWS Bucket to access course
+https://cwa-onboarding.s3.amazonaws.com/onboarding-orientation/CWA-OnboardingOrientation/index.html
 
-https://cwa-onboarding.s3.amazonaws.com/onboarding-overall/index.html
+Updated V2
+
 
